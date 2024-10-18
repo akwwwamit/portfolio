@@ -1,0 +1,12 @@
+ng add angular-cli-ghpages
+
+
+
+git config --global user.name "Amit"
+git config --global user.email "akwwwamit@gmail.com"
+git config --global user.password "amitkumaryadav@123"
+
+https://akwwwamit/github.io/portfolio
+
+ng build --base-href "https://akwwwamit.github.io/portfolio/"
+npx angular-cli-ghpages --dir=dist/saregama/browser

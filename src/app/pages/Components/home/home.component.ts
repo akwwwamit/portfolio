@@ -13,5 +13,5 @@ export class HomeComponent {
   gitHub:string='https://github.com/akwwwamit';
   twittr:string='https://x.com/akwwwamit';
   facebook:string='https://www.facebook.com/amitkumaryadavtamkuhiroad?mibextid=ZbWKwL';
-  resume:string='https://docs.google.com/document/d/1uDCYfQQ1tSrEif3mjdvScccDHnQMqV0-/edit?usp=drive_link&ouid=107916554056205880053&rtpof=true&sd=true';
+  resume:string='./assets/img/Amit_resume.docx';
 }
